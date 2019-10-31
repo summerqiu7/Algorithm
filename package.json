@@ -1,0 +1,24 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "This is where I pratice my JavaScript coding skills",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-prettier": "^2.2.0",
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summerqiu7/Algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summerqiu7/Algorithm/issues"
+  },
+  "homepage": "https://github.com/summerqiu7/Algorithm#readme"
+}
