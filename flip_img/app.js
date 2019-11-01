@@ -11,7 +11,6 @@ function flipImg (arry) {
 }
 
 
-
 flipImg([
     ["#2afed5","#2afad5","#2afee5"],
     ["#4a00d5","#2afaa5","#2afe55"],
